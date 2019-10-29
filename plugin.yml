@@ -1,0 +1,17 @@
+name: SimpleTPA
+version: 1.0
+main: Tp\Tpa
+api: 3.0.0
+author: TheOriginDeveloppement
+website: https://github.com/TheOriginDeveloppement
+
+commands: 
+  tpa:
+    description: Send teleport request to teleport you to player 
+  tpahere:
+    description: Send teleport request to teleport player to your self
+  tpaccept:
+    description: Accept teleport request
+  tpdeny:
+    description: Deny teleport request
+  
